@@ -1,0 +1,136 @@
+body {
+    margin: auto;
+    max-width: 1266px;
+}
+
+#logo {
+    margin-top: 8px;
+    margin-left: 140px;
+}
+
+.intro {
+    font-family: 'Fresca', sans-serif;
+    color: #018ed6;
+    margin-left: 232px;
+    font-size: 23px;
+}
+
+#welcome-text {
+    float: right;
+    margin-top: -100px;
+    margin-right: 263px;
+    font-family : 'Fresca', sans-serif;
+    color: #018ed6;
+    font-size: 20px;
+}
+
+#logout {
+    float: right;
+    margin-top: -32px;
+    margin-right: 333px;
+    background-color: #e4332d;
+    width: 100px;
+    border-radius: 25px;
+    text-align: center;
+    font-size: 17px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
+
+#edit {
+    float: right;
+    margin-top: -32px;
+    margin-right: 223px;
+    background-color: #e4332d;
+    width: 100px;
+    border-radius: 25px;
+    text-align: center;
+    font-size: 17px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
+
+a {
+    font-family : 'Fresca', sans-serif;
+    color: #ffffff;
+    text-decoration: none;
+}
+
+#main-image {
+    width: 1286px;
+    height: 200px;
+    margin-top: 20px;
+    margin-left: -10px;
+    background-color: #0191d7;
+}
+
+#image {
+    width: 300px;
+    border-radius: 170px 0 0 170px;
+    margin-left: 987px;
+}
+
+#tittle {
+    background-color: #ffffff;
+    width: 250px;
+    font-family: 'Fresca', sans-serif;
+    color: #e4332d;
+    margin-top: -116px;
+    text-align: center;
+    margin-left: 450px;
+    font-size: 36px;
+    border-radius: 25px;
+    position: absolute;
+}
+
+#main-text {
+    width: 400px;
+    margin-top: 50px;
+    margin-left: 20px;
+    font-family: 'Fresca', sans-serif;
+}
+
+#form {
+    margin-top: -112px;
+    padding-bottom: 20px;
+    font-family: 'Fresca', sans-serif;
+    margin-left: 550px;
+}
+
+.form {
+    display: block;
+    margin: 10px;
+}
+
+#submit {
+    display: block;
+    background-color: #e4332d;
+    border: none;
+    color: white;
+    font-family: 'Fresca', sans-serif;
+    font-size: 17px;
+    width: 130px;
+    border-radius: 25px;
+    padding-bottom: 2px;
+    margin-top: 30px;
+    margin-left: 5px;
+}
+
+#success {
+    font-family: 'Fresca', sans-serif;
+    text-align: center;
+    margin-left: -23px;
+}
+
+#booked {
+    font-family: 'Fresca', sans-serif;
+    text-align: center;
+    margin-left: 34px;
+}
+
+#fail {
+    font-family: 'Fresca', sans-serif;
+    text-align: center;
+    margin-left: -103px;
+    margin-top: -13px;
+}

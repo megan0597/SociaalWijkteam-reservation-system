@@ -1,0 +1,95 @@
+body {
+    margin: auto;
+    max-width: 1266px;
+}
+
+#logo {
+    margin-top: 8px;
+    margin-left: 140px;
+}
+
+.intro {
+    font-family: 'Fresca', sans-serif;
+    color: #018ed6;
+    margin-left: 232px;
+    font-size: 23px;
+}
+
+#main-image {
+    width: 1286px;
+    height: 200px;
+    margin-top: 20px;
+    margin-left: -10px;
+    background-color: #0191d7;
+}
+
+#image {
+    width: 300px;
+    border-radius: 170px 0 0 170px;
+    margin-left: 987px;
+}
+
+#tittle {
+    background-color: #ffffff;
+    width: 250px;
+    font-family: 'Fresca', sans-serif;
+    color: #e4332d;
+    margin-top: -116px;
+    text-align: center;
+    margin-left: 450px;
+    font-size: 36px;
+    border-radius: 25px;
+    position: absolute;
+}
+
+#main-text {
+    font-family: 'Fresca', sans-serif;
+    width: 301px;
+    margin-left: 15px;
+    margin-top: 30px;
+}
+
+#welcome-text {
+    float: right;
+    margin-top: -100px;
+    margin-right: 263px;
+    font-family : 'Fresca', sans-serif;
+    color: #018ed6;
+    font-size: 20px;
+}
+
+#logout {
+    float: right;
+    margin-top: -32px;
+    margin-right: 288px;
+    background-color: #e4332d;
+    width: 100px;
+    border-radius: 25px;
+    text-align: center;
+    font-size: 17px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
+
+a {
+    font-family : 'Fresca', sans-serif;
+    color: #ffffff;
+    text-decoration: none;
+}
+
+#appointments {
+    font-family : 'Fresca', sans-serif;
+    margin-left: 400px;
+    margin-top: -34px;
+}
+
+table, th, td {
+    border: 1px solid black;
+    text-align: center;
+}
+
+#table {
+    border-radius: 4px;
+    margin-left: 397px;
+    margin-top: 10px;
+}

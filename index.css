@@ -1,0 +1,110 @@
+body {
+    margin: auto;
+    max-width: 1266px;
+}
+
+#logo {
+    margin-top: 8px;
+    margin-left: 140px;
+}
+
+.intro {
+    font-family: 'Fresca', sans-serif;
+    color: #018ed6;
+    margin-left: 232px;
+    font-size: 23px;
+}
+
+#login {
+    float: right;
+    margin-top: -132px;
+    margin-right: 309px;
+    font-family: 'Fresca', sans-serif;
+    color: #018ed6;
+    font-size: 23px;
+}
+
+#form {
+    float: right;
+    margin-top: -98px;
+    margin-right: 236px;
+}
+
+.input {
+    display: block;
+    margin-bottom: 10px;
+    padding: 5px 2px;
+    border: 2px solid #DBDBDB;
+}
+
+#submit {
+    display: block;
+    background-color: #e4332d;
+    border: none;
+    color: white;
+    font-family: 'Fresca', sans-serif;
+    font-size: 17px;
+    width: 130px;
+    border-radius: 25px;
+}
+
+#error {
+    float: right;
+    margin-right: -138px;
+    font-family: 'Fresca', sans-serif;
+    font-size: 17px;
+}
+
+#create-account {
+    float: right;
+    margin-right: -270px;
+    margin-top: -24px;
+    text-decoration: none;
+    background-color: #e4332d;
+    border: none;
+    color: white;
+    font-family: 'Fresca', sans-serif;
+    font-size: 17px;
+    width: 130px;
+    border-radius: 25px;
+    text-align: center;
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
+
+#main-image {
+    width: 1286px;
+    height: 200px;
+    margin-top: 20px;
+    margin-left: -10px;
+    background-color: #0191d7;
+}
+
+#image {
+    width: 300px;
+    border-radius: 170px 0 0 170px;
+    margin-left: 987px;
+}
+
+#main-text {
+    background-color: #ffffff;
+    width: 250px;
+    font-family: 'Fresca', sans-serif;
+    color: #e4332d;
+    margin-top: -116px;
+    text-align: center;
+    margin-left: 450px;
+    font-size: 36px;
+    border-radius: 25px;
+    position: absolute;
+}
+
+#login-text {
+    font-family: 'Fresca', sans-serif;
+    font-size: 22px;
+    text-align: center;
+    margin-left: -90px;
+    margin-top: 50px;
+}
+
+

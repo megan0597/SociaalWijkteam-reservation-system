@@ -1,0 +1,126 @@
+* {
+    background-color: #018ed6;
+    margin: auto;
+    max-width: 1266px;
+}
+
+#container {
+    width: 700px;
+    background-color: #ffffff;
+    margin: -20px auto auto auto;
+    padding-bottom: 100px;
+    border-radius: 10px
+}
+
+#registration {
+    width:450px;
+    border: 1px solid;
+    border-radius: 10px;
+    margin: 15px auto 10px auto;
+    padding-bottom: 5px;
+    background-color: #ffffff;
+}
+
+#text {
+    font-family: 'Fresca', sans-serif;
+    color: #018ed6;
+    font-size: 23px;
+    text-align: center;
+    margin-top: 20px;
+    background-color: #ffffff;
+    padding-top: 30px;
+}
+
+form {
+    background-color: #ffffff;
+}
+
+#email {
+    display: block;
+    margin-left: 65px;
+    margin-bottom: 10px;
+    padding: 5px 2px;
+    border: 2px solid #DBDBDB;
+    margin-top: 50px;
+    background-color: #ffffff;
+}
+
+#street {
+    margin-top: -148px;
+    display: block;
+    margin-left: 245px;
+    margin-bottom: 10px;
+    padding: 5px 2px;
+    border: 2px solid #DBDBDB;
+    background-color: #ffffff;
+}
+
+#district {
+    margin-top: 15px;
+    background-color: #ffffff;
+}
+.left {
+    display: block;
+    margin-left: 65px;
+    margin-bottom: 10px;
+    padding: 5px 2px;
+    border: 2px solid #DBDBDB;
+    background-color: #ffffff;
+}
+
+.right {
+    display: block;
+    margin-left: 245px;
+    margin-bottom: 10px;
+    padding: 5px 2px;
+    border: 2px solid #DBDBDB;
+    background-color: #ffffff;
+}
+
+
+#submit {
+    display: block;
+    background-color: #e4332d;
+    border: none;
+    color: white;
+    font-family: 'Fresca', sans-serif;
+    font-size: 17px;
+    width: 130px;
+    border-radius: 25px;
+    padding: 2px;
+    margin-bottom: 10px;
+    margin-left: 158px;
+    margin-top: 30px;
+}
+
+#fail {
+    text-align: center;
+    font-family: 'Fresca', sans-serif;
+    font-size: 17px;
+    background-color: #ffffff;
+}
+
+#success {
+    text-align: center;
+    font-family: 'Fresca', sans-serif;
+    font-size: 17px;
+    background-color: #ffffff;
+}
+
+#link {
+    text-align: center;
+    background-color: #ffffff;
+}
+
+#back-to-page {
+    text-decoration: none;
+    background-color: #e4332d;
+    border: none;
+    color: white;
+    font-family: 'Fresca', sans-serif;
+    font-size: 17px;
+    width: 130px;
+    border-radius: 25px;
+    padding: 0 10px 2px 10px;
+    margin-left: 380px;
+}
