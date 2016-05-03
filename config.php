@@ -1,10 +1,10 @@
 <?php
 
-//settings
-$host = 'localhost';
-$user = '0892322';
-$password = '1f18d59e';
-$db = '0892322';
+// db settings
+$host = 'fill in your own here';
+$user = 'fill in your own here';
+$password = 'fill in your own here';
+$db = 'fill in your own here';
 
 
 $dbLink = mysqli_connect($host, $user, $password, $db); //connection to database
@@ -16,7 +16,3 @@ $dbLink = mysqli_connect($host, $user, $password, $db); //connection to database
 // costumer login:
 //                email: test@test.nl
 //                password: test
-
-
-// if you want to make another admin you need to set the value in the admin row to 1
-// the admin row's standard is NULL
